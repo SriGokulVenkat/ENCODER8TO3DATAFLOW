@@ -6,7 +6,7 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 
 **SOFTWARE REQUIRED:** Quartus prime
 
-**THEORY**
+
 
 **Encoder 8 To 3**
 
@@ -35,21 +35,30 @@ Logical circuit of the above expressions is given below:
 Figure 02  Encoder 8 * 3
 
 **Procedure**
+![Screenshot 2024-12-08 094229](https://github.com/user-attachments/assets/6eca9d73-593a-4009-9f0a-2de69bfb13f3)
 
-/* write all the steps invloved */
+
+
 
 **PROGRAM**
+![Screenshot 2024-12-08 094126](https://github.com/user-attachments/assets/e05579a1-9fe1-4a08-b148-c6a2021a0b21)
+![Screenshot 2024-12-08 094135](https://github.com/user-attachments/assets/cd842e0c-cc2a-4d45-9b88-b860ff7aaabb)
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+
+
+Developed by: SRI GOKUL VENKAT M
+ RegisterNumber: 24901059
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![Screenshot 2024-12-08 092339](https://github.com/user-attachments/assets/993d094c-0e12-4503-b01e-943c47b0fa64)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![Screenshot 2024-12-08 092350](https://github.com/user-attachments/assets/4bc7fd11-7c13-4f85-9f75-b5ed4f2552b4)
 
 **RESULTS**
+
+![Screenshot 2024-12-08 094237](https://github.com/user-attachments/assets/bec26db8-fe0f-4d55-ae00-244f159d32b5)
 
 
 
